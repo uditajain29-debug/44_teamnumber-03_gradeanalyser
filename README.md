@@ -1,2 +1,2 @@
 # 44_teamnumber-03_gradeanalyser
-mini hackathon project based on grade calculation 
+Mini hackathon project based on grade calculation 
