@@ -1,0 +1,30 @@
+Start the program.
+Define a structure Student containing:- Name
+- Marks of 5 subjects
+- Total
+- Percentage
+- Grade
+- Pass/Fail status
+
+Input the number of students.
+For each student:- Input the student's name.
+- Input marks for five subjects.
+- Add all marks to calculate the total.
+- Check whether marks in every subject are at least 40.
+- Calculate percentage.
+- Assign grade according to percentage.
+- Determine Pass/Fail status.
+- Increement passcount 
+
+Add each student's percentage to calculate the class average.
+Compare student totals to identify the class topper.
+Display each student's:- Name
+- Total
+- Percentage
+- Grade
+- Pass/Fail status
+
+Calculate and display the class average.
+Display the class topper.                       
+Display pass percentage ans number of student pass or failed
+Stop.
