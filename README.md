@@ -85,20 +85,6 @@ Student-Grade-Analyzer/
 └── README.md
 ```
 
-## 🚀 How to Run
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/uditajain29-debug/44_teamnumber-03_gradeanalyser
-```
-
-### 2. Open the Project
-
-```bash
-cd student-grade-analyzer
-```
-
 ### 3. Compile
 
 Using GCC:
